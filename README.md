@@ -1,19 +1,19 @@
-# Hi 👋, I'm Shivam Kumar  
+# Hi, I'm Shivam Kumar  
 
-### Java Full Stack Developer 🚀  
+### Java Backend Developer 🚀  
 
-I am a **Java Full Stack Developer** with a strong focus on backend development and scalable system design.  
+I am a **Java Backend Developer** with a strong focus on backend development and scalable system design.  
 I enjoy building **secure, maintainable, and performance-oriented applications** using modern technologies.
 
-- 🔭 Currently working on **Spring Boot & React**
-- 🌱 Learning **System Design & Microservices**
-- 💼 Interested in **Backend / Full Stack roles**
-- 📫 Connect with me: https://www.linkedin.com/in/shivam-kumar-1a7b5120b/
-- ⚡ Fun fact: I love clean, well-structured code 😄  
+-  Currently working on **Spring Boot **
+-  Learning **System Design & Microservices**
+-  Interested in **Backend / Full Stack roles**
+-  Connect with me: https://www.linkedin.com/in/shivam-kumar-1a7b5120b/
+-  Fun fact: I love clean, well-structured code 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend:**  
 - Java, Spring Boot, Hibernate, JPA  
@@ -26,11 +26,11 @@ I enjoy building **secure, maintainable, and performance-oriented applications**
 - MySQL, MongoDB  
 
 **Tools:**  
-- Git, GitHub, Docker, Postman  
+- Git, GitHub, Docker, Postman , Kafka
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 I focus on building **robust backend systems** and full stack applications that follow **industry best practices**.
 
@@ -41,7 +41,7 @@ I focus on building **robust backend systems** and full stack applications that 
 
 ---
 
-## 🧠 How I Think as a Developer
+## How I Think as a Developer
 
 - I believe **good code should be readable and scalable**
 - I prefer **design-first approach** before implementation
@@ -50,7 +50,7 @@ I focus on building **robust backend systems** and full stack applications that 
 
 ---
 
-## 📈 Learning & Growth
+## Learning & Growth
 
 Currently strengthening my skills in:
 - System Design (LLD & HLD)
@@ -60,7 +60,7 @@ Currently strengthening my skills in:
 
 ---
 
-## 🤝 Open for Opportunities
+##Open for Opportunities
 
 I am actively looking for:
 - Java Backend Developer roles  
